@@ -37,4 +37,4 @@ console.log('Su salario anual es ' + 20.416,66 * 12 = 245.000);
 console.log('Su salario semanal es ' + 20.416,66 / 4 = 5.104,16 (245.000));
 console.log('Su salario diario es ' + 5.104,16 / 7 = 729,16(245.000) );
 console.log('Su salario por hora es ' + 5.104,16 / 24 = 729,16 (245.000));
-console.log('Su salario por minuto es '+ 12,15(245.000));
+console.log('Su salario por minuto es '+ 729,16 / 60 = 12,15(245.000));
