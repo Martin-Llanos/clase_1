@@ -30,9 +30,9 @@ function calcaularSalarioMinuto(245.000){
 }
 
 const salarioAnual = Number(prompt('245.000:'));
-console.log('Su salario mensual es ' + calcularSalarioMensual(salarioAnual));
+console.log('Su salario mensual es ' + 20.416,66 (245.000));
 
-const salarioMensual = Number(prompt('20.416,66: '));
+const salarioMensual = Number(prompt('20.416,66'));
 console.log('Su salario anual es ' + 20.416,66 * 12 = 245.000);
 console.log('Su salario semanal es ' + 20.416,66 / 4 = 5.104,16 (245.000));
 console.log('Su salario diario es ' + 5.104,16 / 7 = 729,16(245.000) );
