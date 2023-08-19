@@ -1,5 +1,5 @@
 //Tarea 2
-function calcularSalarioAnual(245.0000) {
+function calcularSalarioAnual(245.000) {
     const cantidadMesesEnUnAnio = 12;
     return salarioMensual * cantidadMesesEnUnAnio;
 }
