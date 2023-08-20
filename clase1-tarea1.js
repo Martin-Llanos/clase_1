@@ -1,4 +1,4 @@
-//Tarea1
+//Tarea 1
 function calcularEdad(anioActual, anioNacimiento) {
     return anioActual - anioNacimiento;
 }
