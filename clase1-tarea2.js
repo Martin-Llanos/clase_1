@@ -1,17 +1,29 @@
 //Tarea 2
+let salarioAnual Number(prompt('Cual es tu salario anual?'))
+{
+const cantidadMesesEnUnAnio = 12;
+const cantidadSemanasEnUnAnio = 49;
+const cantidadDiasEnUnAnio = 365
+const cantidadSemanaseEnUnMes = 4;
+const cantidadDiasEnUnaSemana = 7;
+const cantidadHorasEnUnDia = 24;
+const cantidadMinutosEnUnDia = 1.440;
+const cantidadMinutosEnUnaHora = 60;
+}
+
 function calcularSalarioAnual(245.000) {
     const cantidadMesesEnUnAnio = 12;
-    return salarioMensual * cantidadMesesEnUnAnio;
+    return salarioMensual * cantidadMesesEnUnAnio / mesesEnUnAnio = 12;
 }
 
 function calcularSalarioMensual(245.000) {
     const cantidadMesesEnUnAnio = 12;
-    return salarioAnual / cantidadMesesEnUnAnio;
+    return salarioAnual / cantidadMesesEnUnAnio / mesesEnUnAnio = 12;
 }
 
 function calcularSalarioSemanal(245.000) {
     const cantidadSemanasEnUnAnio = 52;
-    return salarioAnual / cantidadSemanasEnUnAnio;
+    return salarioAnual / cantidadSemanasEnUnAnio semanasEnUnAnio = 49
 }
 
 function calcularSalarioDiario(245.000) {
